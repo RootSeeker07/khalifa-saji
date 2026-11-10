@@ -1,0 +1,6 @@
+{
+  "name": "Khalifa Balochi Sajji - Jallo Branch Lahore",
+  "description": "Authentic Balochi slow-roasted Sajji, Handi specials, Karahi, and Barbeque delicacies from Khalifa Balochi Sajji Jallo Branch Lahore. Order online for swift home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
